@@ -1,6 +1,6 @@
 Ürün analizi-Yeniden satın alınan ürünleri listeleme
 
-SELECT 
+```sql SELECT 
     p.product_id,
     p.product_name,
     COUNT(DISTINCT o.order_id) AS number_of_orders
@@ -15,7 +15,7 @@ GROUP BY
 HAVING 
     COUNT(DISTINCT o.order_id ) > 1
 ORDER BY 
-    number_of_orders DESC;
+    number_of_orders DESC;```
 
 ![Ürün analizi-Yeniden satın alınan ürünleri listeleme](https://github.com/Kubra1s1kbozkurt/Northwind-SQL/blob/main/image/%C3%9Cr%C3%BCn%20Analizi.png)
 

@@ -1,3 +1,4 @@
+![Müşteri analizi](https://github.com/Kubra1s1kbozkurt/Northwind-SQL/blob/main/image/M%C3%BC%C5%9Fteri%20Analizi2.png)
 
 Müşteri Analizi
 50.000 ve üzeri high value- 30.000/50.000 arası medium- 30.000 altı low value
@@ -34,5 +35,5 @@ ORDER BY
     total_spent DESC;
 
 
-![Müşteri analizi](https://github.com/Kubra1s1kbozkurt/Northwind-SQL/blob/main/image/M%C3%BC%C5%9Fteri%20Analizi2.png)
+
 

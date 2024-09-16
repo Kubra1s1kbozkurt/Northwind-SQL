@@ -15,3 +15,5 @@ HAVING
     COUNT(DISTINCT o.order_id ) > 1
 ORDER BY 
     number_of_orders DESC;
+
+![](https://github.com/Kubra1s1kbozkurt/Northwind-SQL/blob/main/image/%C3%9Cr%C3%BCn%20Analizi.png)

@@ -1,6 +1,7 @@
 
 ```markdown
-Sorguların çıktıları ayrı ayrı dosya halinde .md dosyaları içerisinde kod blokları ile beraber paylaşılmıştır.
+Sorguların çıktıları ayrı ayrı dosya halinde .md dosyaları içerisinde kod blokları ile beraber
+paylaşılmıştır.
 
 
 Ürün analizi-Yeniden satın alınan ürünleri listeleme

@@ -1,6 +1,6 @@
 Ürün analizi-Yeniden satın alınan ürünleri listeleme
 
-```sql SELECT 
+``` SELECT 
     p.product_id,
     p.product_name,
     COUNT(DISTINCT o.order_id) AS number_of_orders

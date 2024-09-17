@@ -1,5 +1,5 @@
 
-### Yeniden satın alınan ürünleri listeleme
+## Yeniden satın alınan ürünleri listeleme
 
 ```sql
 SELECT 
